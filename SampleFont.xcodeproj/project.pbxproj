@@ -20,6 +20,7 @@
 		11CA1988178A8CBA00FF53D9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11CA1987178A8CBA00FF53D9 /* ViewController.m */; };
 		11D8D6C4179FADF900FC1863 /* R 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 11D8D6C3179FADF900FC1863 /* R 2.png */; };
 		11D8D6C6179FAE1C00FC1863 /* R 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 11D8D6C5179FAE1C00FC1863 /* R 3.png */; };
+		C652230017A42A4900CAA630 /* license in Resources */ = {isa = PBXBuildFile; fileRef = C65222FF17A42A4900CAA630 /* license */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		11CA1987178A8CBA00FF53D9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		11D8D6C3179FADF900FC1863 /* R 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "R 2.png"; sourceTree = "<group>"; };
 		11D8D6C5179FAE1C00FC1863 /* R 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "R 3.png"; sourceTree = "<group>"; };
+		C65222FF17A42A4900CAA630 /* license */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = license; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				11CA1986178A8CBA00FF53D9 /* ViewController.h */,
 				11CA1987178A8CBA00FF53D9 /* ViewController.m */,
 				11CA1972178A8CBA00FF53D9 /* Supporting Files */,
+				C65222FF17A42A4900CAA630 /* license */,
 			);
 			path = SampleFont;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				11CA1985178A8CBA00FF53D9 /* MainStoryboard.storyboard in Resources */,
 				11D8D6C4179FADF900FC1863 /* R 2.png in Resources */,
 				11D8D6C6179FAE1C00FC1863 /* R 3.png in Resources */,
+				C652230017A42A4900CAA630 /* license in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
