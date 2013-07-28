@@ -13,6 +13,7 @@
 
 @interface ViewController : UIViewController<UITableViewDataSource, UITableViewDelegate>{
     UITableView *fontTableView;
+    NSMutableArray *fontArray;
 }
 
 @end
